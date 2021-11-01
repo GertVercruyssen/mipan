@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mipan/static/css/main.205f64a2.chunk.css",
+    "main.js": "/mipan/static/js/main.bad3ccb1.chunk.js",
+    "main.js.map": "/mipan/static/js/main.bad3ccb1.chunk.js.map",
+    "runtime-main.js": "/mipan/static/js/runtime-main.6948a752.js",
+    "runtime-main.js.map": "/mipan/static/js/runtime-main.6948a752.js.map",
+    "static/js/2.29439fcb.chunk.js": "/mipan/static/js/2.29439fcb.chunk.js",
+    "static/js/2.29439fcb.chunk.js.map": "/mipan/static/js/2.29439fcb.chunk.js.map",
+    "index.html": "/mipan/index.html",
+    "precache-manifest.a73f988ef2e8dd8a89982afc37501977.js": "/mipan/precache-manifest.a73f988ef2e8dd8a89982afc37501977.js",
+    "service-worker.js": "/mipan/service-worker.js",
+    "static/css/main.205f64a2.chunk.css.map": "/mipan/static/css/main.205f64a2.chunk.css.map",
+    "static/media/4.png": "/mipan/static/media/4.83e91cee.png",
+    "static/media/5.png": "/mipan/static/media/5.96e631f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6948a752.js",
+    "static/js/2.29439fcb.chunk.js",
+    "static/css/main.205f64a2.chunk.css",
+    "static/js/main.bad3ccb1.chunk.js"
+  ]
+}
